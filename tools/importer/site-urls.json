@@ -1,0 +1,626 @@
+{
+  "originUrl": "https://www.patagonia.com",
+  "aborted": false,
+  "lastCrawled": "https://www.patagonia.com/",
+  "urls": [
+    {
+      "url": "https://www.patagonia.com/product/funhoggers-cotton-anorak-pullover/20325.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/funhoggers-cotton-anorak-pullover/20325",
+      "id": "7bde75dc72701ad01f8d916ccc50884516401545"
+    },
+    {
+      "url": "https://www.patagonia.com/product/lightweight-beach-towel/20031.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/lightweight-beach-towel/20031",
+      "id": "c765b24fe65154e52c6642eb3943537a6cd27ad5"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-2-loose-quick-dry-travel-pants/21495.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-2-loose-quick-dry-travel-pants/21495",
+      "id": "0e3a170bc52f22b7bf000ac8f810253973c10ddf"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-box-quilted-windproof-hoody/20830.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-box-quilted-windproof-hoody/20830",
+      "id": "ec057fffb977aa570bf7d881735e1e084a2cac6a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-daily-quilted-insulated-jacket/20270.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-daily-quilted-insulated-jacket/20270",
+      "id": "d0bbb51695928e0b03466f410b85a6f59a726bb6"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-daily-sweatpants/21475.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-daily-sweatpants/21475",
+      "id": "1de4f185781787eded07b3c427d4171fba124342"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-downdrift-insulated-jacket/20600.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-downdrift-insulated-jacket/20600",
+      "id": "8bec79bea0a2e74052b2627e9aceb5e44c50f4a1"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-downdrift-insulated-vest/20785.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-downdrift-insulated-vest/20785",
+      "id": "20e09e76a40fcbf1041f51b8c125d95380cce58f"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-fleece-lined-isthmus-coaches-jacket/20415.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-fleece-lined-isthmus-coaches-jacket/20415",
+      "id": "c0d271f33f6a71c126d984052fee11c97bfb7942"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-fleece-pile-lined-corduroy-shirt-jacket/20395.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-fleece-pile-lined-corduroy-shirt-jacket/20395",
+      "id": "fc5cfe93e9e5f281a7ed142e769653a7de37cf7a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-fleece-pile-lined-fjord-loft-shirt-jacket/20365.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-fleece-pile-lined-fjord-loft-shirt-jacket/20365",
+      "id": "edaad06c2f4e5c25c4f57cdf4d4becea62bee957"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-funhoggers-cotton-pants/22055.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-funhoggers-cotton-pants/22055",
+      "id": "1ae9d80bddff0dfdada41302f1ffd0578df11108"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-hemp-work-sweatpants/21720.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-hemp-work-sweatpants/21720",
+      "id": "74340473b27adba066b048d485f671006d5b3bea"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-hooded-pullover/20566.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-hooded-pullover/20566",
+      "id": "bdf2a0c680086e1fe32ccf6aa0ea9dc18af72d84"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-jacket/20555.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-jacket/20555",
+      "id": "9ce105117b9cc690abfc248a4ca5c15636303e58"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-jacket/20556.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-jacket/20556",
+      "id": "c1a3c254017dbe581403c60562d8ab8967f3c388"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-pullover/20565.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-pullover/20565",
+      "id": "cfc5c3ee4c9fc8965d7312aeed521eb7e3e7ed93"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-shirt-jacket/20585.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-shirt-jacket/20585",
+      "id": "29fc09f9d67979fa1671383fdfe024c5361a2d1a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-vest/20575.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-vest/20575",
+      "id": "326eb28895a1497b70dde32cc11356d29dfc41b2"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-light-gust-insulated-vest/20576.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-light-gust-insulated-vest/20576",
+      "id": "c8e6d48294fdd8d2b89019f6b7c4679f3b7ad80d"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-lightweight-insulated-fjord-flannel-shirt/20386.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-lightweight-insulated-fjord-flannel-shirt/20386",
+      "id": "9e83f95188e00152848e7e4849a60fe131bcd081"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-nomader-hoody-jacket/20440.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-nomader-hoody-jacket/20440",
+      "id": "4abf6510f62801e6fbaf78a1d73e67d662fcc61e"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-nomader-travel-joggers/21450.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-nomader-travel-joggers/21450",
+      "id": "9ed1549480685cc45430c6f4df5528ac38d21926"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-organic-cotton-corduroy-jeans-regular/21525.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-organic-cotton-corduroy-jeans-regular/21525",
+      "id": "d7aa3be6da9738593140fac06e01db18621ab9e6"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-organic-cotton-corduroy-jeans-short/21515.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-organic-cotton-corduroy-jeans-short/21515",
+      "id": "452cd368abd690cd806d7ef033bd80e94e0066f3"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-outdoor-everyday-marsupial-pullover/20345.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-outdoor-everyday-marsupial-pullover/20345",
+      "id": "6ac92aa646557cacf9a637a19c989bb802d51d23"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-outdoor-everyday-pants/21582.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-outdoor-everyday-pants/21582",
+      "id": "54cd60300780962adc13925831c86a7166b3b4fb"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-point-peak-trail-pants-regular/21150.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-point-peak-trail-pants-regular/21150",
+      "id": "36211ba55010659a427e77a312e05b45da8943ff"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-point-reyes-cotton-canvas-jacket/20250.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-point-reyes-cotton-canvas-jacket/20250",
+      "id": "5310e73e7639be2f47c6143dc5340ed6c8ea4c16"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-r2-techface-fleece-lined-pants/21715.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-r2-techface-fleece-lined-pants/21715",
+      "id": "5323adc72cb78bcf8b6d5cb6700ca5fb11e52dde"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-reclaimed-fleece-cardigan/20485.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-reclaimed-fleece-cardigan/20485",
+      "id": "adeb9252352d9ce794116cf92d397da8eb8271b0"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-reversible-silent-down-fleece-jacket/20670.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-reversible-silent-down-fleece-jacket/20670",
+      "id": "a94190d6a9855edeb393dc2c43b364fd990a81ac"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-silent-down-parka/20655.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-silent-down-parka/20655",
+      "id": "1c3c4786fe0d8953cd2d7026f4908943dd656f3d"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-straight-fit-jeans-regular/21625.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-straight-fit-jeans-regular/21625",
+      "id": "3da4d7c8c58d18a736ab98525da71267e253370f"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-straight-fit-jeans-short/21615.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-straight-fit-jeans-short/21615",
+      "id": "c18c9c76deeee3e5352414ef920736f9a5427682"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-synchilla-fleece-pants/21665.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-synchilla-fleece-pants/21665",
+      "id": "dcd077b641850dc504e948d01fa8a99f804ec606"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-terravia-peak-trail-pants-regular/21151.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-terravia-peak-trail-pants-regular/21151",
+      "id": "4d706f4da7abb7c62cb401897f74bb43d6e407e0"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-terravia-peak-trail-pants-short/21146.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-terravia-peak-trail-pants-short/21146",
+      "id": "8054c228471f40e4f92c78990b3aa10aa156febc"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-terravia-trail-hiking-pants-regular/21170.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-terravia-trail-hiking-pants-regular/21170",
+      "id": "021544c277ce73c38a561f23308b0d41528b0218"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-terravia-trail-hiking-pants-short/21165.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-terravia-trail-hiking-pants-short/21165",
+      "id": "d65486cba20eadea62cfd57b3fe7c643df3773bd"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-5-pocket-pants-long/22090.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-5-pocket-pants-long/22090",
+      "id": "cad69a1f914448bec5b39fa41bb521164d0042db"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-5-pocket-pants-long/22091.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-5-pocket-pants-long/22091",
+      "id": "39c4bebf5158086b27e049c4371dcbad294a65c1"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-5-pocket-pants-regular/22085.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-5-pocket-pants-regular/22085",
+      "id": "3b33f592d73fcf5c5167b3ebb27c64c518f3b138"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-5-pocket-pants-regular/22086.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-5-pocket-pants-regular/22086",
+      "id": "98f447d3e27f564dad78d03afb8ff9fae02e44e3"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-5-pocket-pants-short/22080.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-5-pocket-pants-short/22080",
+      "id": "27feafed95654181be7149d9bc6a075060d6a8cc"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-5-pocket-pants-short/22081.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-5-pocket-pants-short/22081",
+      "id": "044037ae012ad9c03aedcd871cc05c36dc590495"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-joggers/22045.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-joggers/22045",
+      "id": "de9294996721aac684ff4f15a69fdab68135a104"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-joggers/22046.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-joggers/22046",
+      "id": "a81e4c1350589b9d66e13a058be8cc3ab8ebffdf"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-transit-traveler-shorts-7-inch/22096.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-transit-traveler-shorts-7-inch/22096",
+      "id": "a9149fd80f6c23e00c2fb8d6edc525769aba3d62"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-twill-traveler-chino-pants-short/22115.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-twill-traveler-chino-pants-short/22115",
+      "id": "b13e621b04ef67477863c5cf718fa1781f840fcf"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-windsweep-lightweight-windbreaker-jacket/20320.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-windsweep-lightweight-windbreaker-jacket/20320",
+      "id": "6a040177e827b6982e7072302c10435a6a41e981"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-work-denim-5-pocket-pants-regular/21757.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-work-denim-5-pocket-pants-regular/21757",
+      "id": "4ca9175ba4494f23efa0fced8ece767198735bb5"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-work-denim-5-pocket-pants-short/21752.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-work-denim-5-pocket-pants-short/21752",
+      "id": "9f20a0c0923280f2c5c354054a9187be21ec4742"
+    },
+    {
+      "url": "https://www.patagonia.com/product/mens-work-sweatshirt/21399.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/mens-work-sweatshirt/21399",
+      "id": "2930afa527fdaf2d801b2a54cf1c8c47bd8a686d"
+    },
+    {
+      "url": "https://www.patagonia.com/product/natural-blend-retro-cardigan-sweater/20535.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/natural-blend-retro-cardigan-sweater/20535",
+      "id": "c2676ec8181330fca1d8e1f293e352aa0e59078f"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-ahnya-sweatpants/21974.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-ahnya-sweatpants/21974",
+      "id": "add36c643e7f44f78a868c230089ddb18cae7f95"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-all-seasons-hemp-canvas-work-pants-regular/21816.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-all-seasons-hemp-canvas-work-pants-regular/21816",
+      "id": "e5d19be64fb67eee16eec6245c61ba7405696bcb"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-cord-fjord-flannel-lined-jacket/20335.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-cord-fjord-flannel-lined-jacket/20335",
+      "id": "5a09068088dfe23f72ab01722e92a624a1cf25e1"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-corduroy-overshirt-jacket/20355.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-corduroy-overshirt-jacket/20355",
+      "id": "07cdb8f03ff8b465d951fc13064967eb5be07b34"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-daily-snap-t-pullover/20265.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-daily-snap-t-pullover/20265",
+      "id": "8919a26c4b2ed8fd7ecbdbdd4679d956b2894120"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-diamond-quilted-bomber-hoody/20695.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-diamond-quilted-bomber-hoody/20695",
+      "id": "03228dfc61a66d3d702efdeb6957d35f7db85667"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-diamond-quilted-insulated-bomber-hoody/20696.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-diamond-quilted-insulated-bomber-hoody/20696",
+      "id": "7e0db770a7b34168091d326fcce55789b2839964"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-downdrift-insulated-jacket/20625.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-downdrift-insulated-jacket/20625",
+      "id": "d61dd0854b53897e1ad80ed96cbc18fc24a2a98c"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-downdrift-insulated-parka/20605.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-downdrift-insulated-parka/20605",
+      "id": "ec39d372b7aaaf28279c19a583d148ffd585387a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-downdrift-insulated-vest/20685.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-downdrift-insulated-vest/20685",
+      "id": "f8058d8703d9843b7aea65a0627f4da79a81eca6"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-fleetwith-pants/21936.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-fleetwith-pants/21936",
+      "id": "642bf1a645177c508ce7e1c978d610e3b8546b54"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-funhoggers-cotton-pants/22060.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-funhoggers-cotton-pants/22060",
+      "id": "bc9896b1f2227befc4cfbb89197461e2fe4f5987"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-happy-hike-studio-pants/21218.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-happy-hike-studio-pants/21218",
+      "id": "547d845466a0f6577ce699cac7e20346dc61d74e"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-iron-forge-fleece-lined-bib-work-overalls/21800.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-iron-forge-fleece-lined-bib-work-overalls/21800",
+      "id": "3fdfda99bf51cbf32eb9d0662d6db9a573c81dd2"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-light-gust-hooded-insulated-vest/20580.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-light-gust-hooded-insulated-vest/20580",
+      "id": "c439d493e75bc475ef039c86c66227ab52119340"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-light-gust-insulated-hooded-pullover/20571.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-light-gust-insulated-hooded-pullover/20571",
+      "id": "6c6b838aca8dd43020c80426a7cc50f4c1c7d4b4"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-light-gust-insulated-hooded-vest/20581.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-light-gust-insulated-hooded-vest/20581",
+      "id": "694660250775108e81e1f5d744ffffab22d2b16a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-light-gust-insulated-jacket/20560.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-light-gust-insulated-jacket/20560",
+      "id": "d25113cd35a9448c072e89695cab3f62cdf6e6aa"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-light-gust-insulated-jacket/20561.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-light-gust-insulated-jacket/20561",
+      "id": "8b8c51ce67546744e4a731f16dcdded27614b54a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-light-gust-insulated-pullover/20570.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-light-gust-insulated-pullover/20570",
+      "id": "8e0d6d059c2256f52fe9222c62b947ad43c5964d"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-micro-d-fleece-joggers/22020.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-micro-d-fleece-joggers/22020",
+      "id": "07ac28c23ce0bf3bacc77aa83a20cfc125e154ec"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-outdoor-everyday-cargo-pants/22030.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-outdoor-everyday-cargo-pants/22030",
+      "id": "ecbfaf2986bab226c30614066bed3bc5c42af980"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-outdoor-everyday-pants/22035.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-outdoor-everyday-pants/22035",
+      "id": "0dcb0fe0a78edf882f90ac645c62f072b10ab52a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-outdoor-everyday-rain-jacket/20405.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-outdoor-everyday-rain-jacket/20405",
+      "id": "8d2d13636fda2257a360a4446cc9c6c19e914b08"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-pack-out-active-tights/21995.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-pack-out-active-tights/21995",
+      "id": "2544b881f351cf1d9acd49d0f81bbbd40a31c1db"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-pack-out-hiking-tights/21975.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-pack-out-hiking-tights/21975",
+      "id": "5d8752122b102fe09b19b9e679bd05e456d72980"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-pine-bank-3-in-1-parka/21025.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-pine-bank-3-in-1-parka/21025",
+      "id": "856b28217cb037bb9fc27e9aed77b94081ffbaea"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-pine-bank-insulated-parka/21030.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-pine-bank-insulated-parka/21030",
+      "id": "468bcdd7c9afef8adc87b9974ba0680d1548b421"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-point-peak-trail-pants-regular/21155.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-point-peak-trail-pants-regular/21155",
+      "id": "1d4cd728e5a50fb2c0d9c0fda96dcd18e3afcac3"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-point-peak-trail-pants-short/21125.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-point-peak-trail-pants-short/21125",
+      "id": "d2e23a717448beb9a390a98edba6b5703d2fc186"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-point-reyes-cotton-canvas-coat/20255.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-point-reyes-cotton-canvas-coat/20255",
+      "id": "1c499797e4aea2cc840dc5010c7e198de3481a7a"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-r2-crossstrata-fleece-lined-pants/21830.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-r2-crossstrata-fleece-lined-pants/21830",
+      "id": "0d02a34611ccb925887aade6341adf3ef46fbeb5"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-regenerative-organic-certified-cotton-essential-pants/21931.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-regenerative-organic-certified-cotton-essential-pants/21931",
+      "id": "2f0c291c0be77d50053f18687d97f7818d299922"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-seabrook-performance-joggers/22015.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-seabrook-performance-joggers/22015",
+      "id": "ea7308d7a5376aaa36351524dd176d1a21913c56"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-skysail-unlined-parka/20460.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-skysail-unlined-parka/20460",
+      "id": "721cd314c3f442bd8b5653f4c648be2e2ed20de5"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-slim-all-seasons-hemp-canvas-work-pants-short/21811.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-slim-all-seasons-hemp-canvas-work-pants-short/21811",
+      "id": "0c8761625d4895af224fb15ca8337bd69627eb57"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-slim-work-denim-pants-regular/21845.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-slim-work-denim-pants-regular/21845",
+      "id": "d0e00f4f46ad88789a76046a16b650f534c46d62"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-slim-work-denim-pants-short/21840.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-slim-work-denim-pants-short/21840",
+      "id": "2f24efae49280e9b3234b5c1e4d56d2e15bad261"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-steel-forge-puff-winter-work-jacket/20210.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-steel-forge-puff-winter-work-jacket/20210",
+      "id": "bd2ed487dbad66888844cd5a4421543f04cdf10e"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-steel-forge-winter-work-vest/20220.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-steel-forge-winter-work-vest/20220",
+      "id": "d531436e92ba9cd756a52ac3720297e4caae4320"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-terravia-peak-trail-pants-regular/21156.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-terravia-peak-trail-pants-regular/21156",
+      "id": "d8973f96558a47114df438c2dc2c9af463f368cf"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-terravia-peak-trail-pants-short/21126.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-terravia-peak-trail-pants-short/21126",
+      "id": "41289b48731236772357381a18e0ecd9ae1af55d"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-utility-pants/21925.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-utility-pants/21925",
+      "id": "5b40a77c56e32baf7cbdc2a68ca8e9cc1d22798d"
+    },
+    {
+      "url": "https://www.patagonia.com/product/womens-wide-wale-corduroy-pants/21595.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/womens-wide-wale-corduroy-pants/21595",
+      "id": "0d13e58c7ed8c22574d2f0cefeea84b4ca98b46f"
+    },
+    {
+      "url": "https://www.patagonia.com/product/work-apron/20051.html",
+      "source": "SITEMAPS",
+      "targetPath": "/product/work-apron/20051",
+      "id": "8ac96df7a237d93b97e5cfa7dabdc188abc35323"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.patagonia.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.patagonia.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
+}
