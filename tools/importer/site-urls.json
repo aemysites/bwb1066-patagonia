@@ -10,12 +10,6 @@
       "id": "7bde75dc72701ad01f8d916ccc50884516401545"
     },
     {
-      "url": "https://www.patagonia.com/product/lightweight-beach-towel/20031.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/lightweight-beach-towel/20031",
-      "id": "c765b24fe65154e52c6642eb3943537a6cd27ad5"
-    },
-    {
       "url": "https://www.patagonia.com/product/mens-2-loose-quick-dry-travel-pants/21495.html",
       "source": "SITEMAPS",
       "targetPath": "/product/mens-2-loose-quick-dry-travel-pants/21495",
@@ -50,12 +44,6 @@
       "source": "SITEMAPS",
       "targetPath": "/product/mens-downdrift-insulated-vest/20785",
       "id": "20e09e76a40fcbf1041f51b8c125d95380cce58f"
-    },
-    {
-      "url": "https://www.patagonia.com/product/mens-fleece-lined-isthmus-coaches-jacket/20415.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/mens-fleece-lined-isthmus-coaches-jacket/20415",
-      "id": "c0d271f33f6a71c126d984052fee11c97bfb7942"
     },
     {
       "url": "https://www.patagonia.com/product/mens-fleece-pile-lined-corduroy-shirt-jacket/20395.html",
@@ -194,12 +182,6 @@
       "source": "SITEMAPS",
       "targetPath": "/product/mens-reversible-silent-down-fleece-jacket/20670",
       "id": "a94190d6a9855edeb393dc2c43b364fd990a81ac"
-    },
-    {
-      "url": "https://www.patagonia.com/product/mens-silent-down-parka/20655.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/mens-silent-down-parka/20655",
-      "id": "1c3c4786fe0d8953cd2d7026f4908943dd656f3d"
     },
     {
       "url": "https://www.patagonia.com/product/mens-straight-fit-jeans-regular/21625.html",
@@ -412,12 +394,6 @@
       "id": "547d845466a0f6577ce699cac7e20346dc61d74e"
     },
     {
-      "url": "https://www.patagonia.com/product/womens-iron-forge-fleece-lined-bib-work-overalls/21800.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/womens-iron-forge-fleece-lined-bib-work-overalls/21800",
-      "id": "3fdfda99bf51cbf32eb9d0662d6db9a573c81dd2"
-    },
-    {
       "url": "https://www.patagonia.com/product/womens-light-gust-hooded-insulated-vest/20580.html",
       "source": "SITEMAPS",
       "targetPath": "/product/womens-light-gust-hooded-insulated-vest/20580",
@@ -496,12 +472,6 @@
       "id": "856b28217cb037bb9fc27e9aed77b94081ffbaea"
     },
     {
-      "url": "https://www.patagonia.com/product/womens-pine-bank-insulated-parka/21030.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/womens-pine-bank-insulated-parka/21030",
-      "id": "468bcdd7c9afef8adc87b9974ba0680d1548b421"
-    },
-    {
       "url": "https://www.patagonia.com/product/womens-point-peak-trail-pants-regular/21155.html",
       "source": "SITEMAPS",
       "targetPath": "/product/womens-point-peak-trail-pants-regular/21155",
@@ -560,18 +530,6 @@
       "source": "SITEMAPS",
       "targetPath": "/product/womens-slim-work-denim-pants-short/21840",
       "id": "2f24efae49280e9b3234b5c1e4d56d2e15bad261"
-    },
-    {
-      "url": "https://www.patagonia.com/product/womens-steel-forge-puff-winter-work-jacket/20210.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/womens-steel-forge-puff-winter-work-jacket/20210",
-      "id": "bd2ed487dbad66888844cd5a4421543f04cdf10e"
-    },
-    {
-      "url": "https://www.patagonia.com/product/womens-steel-forge-winter-work-vest/20220.html",
-      "source": "SITEMAPS",
-      "targetPath": "/product/womens-steel-forge-winter-work-vest/20220",
-      "id": "d531436e92ba9cd756a52ac3720297e4caae4320"
     },
     {
       "url": "https://www.patagonia.com/product/womens-terravia-peak-trail-pants-regular/21156.html",
